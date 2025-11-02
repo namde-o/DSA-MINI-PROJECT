@@ -32,7 +32,7 @@ Build A Database
 
 **ROLL NO:** 1. 30 2. 44 3. 11 4. 21
 
-**NAME OF STUDENT:** 1. Suyash Sonawane 2. Shravan Thorwat 3. Mohit 4. Gaurav Shinde
+**NAME OF STUDENT:** 1. Suyash Sonawane 2. Shravan Thorwat 3. Mohit Sambrekar 4. Gaurav Shinde
 
 **NAME AND SIGN OF SUBJECT INCHARGE:** Prof. Varsha Babar
 
